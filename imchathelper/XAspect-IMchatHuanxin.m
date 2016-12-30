@@ -12,6 +12,7 @@
 #import "EaseUI.h"
 #import "JPUSHService.h"
 #import "ChatDemoHelper.h"
+#import "viewcontroller.h"
 
 
 #if __IPHONE_OS_VERSION_MAX_ALLOWED >= __IPHONE_10_0
